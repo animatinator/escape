@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item id="33">
+		<type>key</type>
+		<name>Keyish key</name>
+		<description>The key resembles something one might insert into a keyhole.</description>
+		<texIndex>262</texIndex>
+	</item>
+	<item id="34">
+		<type>key</type>
+		<name>Square crank emblem in the shape of a wolf</name>
+		<description>When the demon's dark-sided moon approaches a crisp morning, my eyeless crest shall watch over the fragments of yesterday.</description>
+		<texIndex>261</texIndex>
+	</item>
+	<item id="35">
+		<type>key</type>
+		<name>Sword Key</name>
+		<description>But all the doors need the shield key.</description>
+		<texIndex>259</texIndex>
+	</item>
+</items>

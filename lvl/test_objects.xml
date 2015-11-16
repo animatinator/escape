@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects>
+	<object id="100">
+		<type>door</type>
+		<locked>false</locked>
+		<key>0</key>
+		<lockedDescription></lockedDescription>
+	</object>
+	<object id="110">
+		<type>door</type>
+		<locked>true</locked>
+		<key>33</key>
+		<lockedDescription>The keyhole represents a hole into which one might insert a key.</lockedDescription>
+	</object>
+	<object id="120">
+		<type>door</type>
+		<locked>true</locked>
+		<key>34</key>
+		<lockedDescription>There's a marking in the shape of an inscription on the handle's emblem engraving.</lockedDescription>
+	</object>
+	<object id="130">
+		<type>door</type>
+		<locked>true</locked>
+		<key>35</key>
+		<lockedDescription>It looks like some fool has tried to shove a sword into the keyhole...</lockedDescription>
+	</object>
+	<object id="150">
+		<type>container</type>
+		<texIndex>0</texIndex>
+		<locked>false</locked>
+		<key>0</key>
+		<lockedDescription></lockedDescription>
+		<containedItem>33</containedItem>
+	</object>
+	<object id="160">
+		<type>container</type>
+		<texIndex>0</texIndex>
+		<locked>false</locked>
+		<key>0</key>
+		<lockedDescription></lockedDescription>
+		<containedItem>34</containedItem>
+	</object>
+	<object id="170">
+		<type>container</type>
+		<texIndex>0</texIndex>
+		<locked>false</locked>
+		<key>0</key>
+		<lockedDescription></lockedDescription>
+		<containedItem>35</containedItem>
+	</object>
+	<object id="180">
+		<type>examinable</type>
+		<texIndex>9</texIndex>
+		<description>The image features a delightfully stylised depiction of a turd, Bic ink on standard school jotter.</description>
+		<solid>false</solid>
+		<seeThrough>true</seeThrough>
+	</object>
+	<object id="181">
+		<type>examinable</type>
+		<texIndex>10</texIndex>
+		<description>A painting of a castle composed of Cheetos.</description>
+		<solid>false</solid>
+		<seeThrough>true</seeThrough>
+	</object>
+	<object id="182">
+		<type>examinable</type>
+		<texIndex>8</texIndex>
+		<description>There's an obscure puzzle hint painted into the lines of this poorly-textured doodle.</description>
+		<solid>false</solid>
+		<seeThrough>true</seeThrough>
+	</object>
+	<object id="190">
+		<type>examinable</type>
+		<texIndex>18</texIndex>
+		<description>The papers seem to reveal this game's source code... It's a sodding mess.</description>
+		<solid>true</solid>
+		<seeThrough>true</seeThrough>
+	</object>
+	<object id="191">
+		<type>examinable</type>
+		<texIndex>16</texIndex>
+		<description>It's a table. Damned nice texturing; someone clearly knows how to use GIMP.</description>
+		<solid>true</solid>
+		<seeThrough>true</seeThrough>
+	</object>
+	<object id="192">
+		<type>examinable</type>
+		<texIndex>13</texIndex>
+		<description>It's a table. Damned nice texturing; someone clearly knows how to use GIMP.</description>
+		<solid>true</solid>
+		<seeThrough>true</seeThrough>
+	</object>
+	<object id="193">
+		<type>examinable</type>
+		<texIndex>15</texIndex>
+		<description>It's a table. Damned nice texturing; someone clearly knows how to use GIMP.</description>
+		<solid>true</solid>
+		<seeThrough>true</seeThrough>
+	</object>
+	<object id="194">
+		<type>examinable</type>
+		<texIndex>14</texIndex>
+		<description>It's a table. Damned nice texturing; someone clearly knows how to use GIMP.</description>
+		<solid>true</solid>
+		<seeThrough>true</seeThrough>
+	</object>
+	<object id="195">
+		<type>examinable</type>
+		<texIndex>11</texIndex>
+		<description>It's a table. Damned nice texturing; someone clearly knows how to use GIMP.</description>
+		<solid>true</solid>
+		<seeThrough>true</seeThrough>
+	</object>
+	<object id="196">
+		<type>examinable</type>
+		<texIndex>12</texIndex>
+		<description>Egh, a plate D:</description>
+		<solid>true</solid>
+		<seeThrough>true</seeThrough>
+	</object>
+	<object id="200">
+		<type>container</type>
+		<texIndex>0</texIndex>
+		<locked>true</locked>
+		<key>35</key>
+		<lockedDescription>The inscription says "Here lies the shotgun, keeper of the sword."</lockedDescription>
+		<containedItem>3</containedItem>
+	</object>
+	<object id="210">
+		<type>examinable</type>
+		<texIndex>22</texIndex>
+		<description>Ooh, a window...</description>
+		<solid>true</solid>
+		<seeThrough>false</seeThrough>
+	</object>
+	<object id="211">
+		<type>examinable</type>
+		<texIndex>21</texIndex>
+		<description>Ooh, a window...</description>
+		<solid>true</solid>
+		<seeThrough>false</seeThrough>
+	</object>
+	<object id="220">
+		<type>container</type>
+		<texIndex>0</texIndex>
+		<locked>false</locked>
+		<key>0</key>
+		<lockedDescription></lockedDescription>
+		<containedItem>17</containedItem>
+	</object>
+</objects>
